@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, my name is Victoria 👋 </h1>
 <h3 align="center">I'm a Junior Frontend Developer</h3>
 <br/>
-<p><strong>My tech stack: </strong><img src="/images/html-5-icon.svg" alt="icon" width="16" height="16"> HTML, <img src="/images/css-3-icon.svg" alt="icon" width="16" height="16"> CSS, <img src="/images/javascript-icon.svg" alt="icon" width="16" height="16"> JS
+<p><strong>My tech stack: </strong> HTML, CSS, JS
 <p><strong>Education: </strong><a href="https://ru.hexlet.io/programs/frontend" target="_blank">Hexlet Frontend programm</a> student</p>
 
 <!--
