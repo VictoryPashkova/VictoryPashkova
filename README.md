@@ -1,10 +1,20 @@
-### 
+# Hi there, my name is Victoria 👋
 
-<h1 align="center">Hi there, my name is Victoria 👋 </h1>
-<h3 align="center">I'm a Junior Frontend Developer</h3>
-<br/>
-<p><strong>My tech stack: </strong> HTML, CSS, JS
-<p><strong>Education: </strong><a href="https://ru.hexlet.io/programs/frontend" target="_blank">Hexlet Frontend programm</a> student</p>
+### I'm a Junior Frontend Developer
+
+I'm passionate about programming frontend apps that address business needs and anticipate user needs. Excited for new opportunities.
+
+---
+
+- **🧠What I know:** JavaScript, Node.js, HTML, CSS, OOP (Object-Oriented Programming), functional programming, MVC (Model-View-Controller), DOM API, HTTP API, asynchronous programming, automated testing (Jest), TDD.
+- **💡What I'm using:** Visual Studio Code (VSC), Git, GitHub, GitHub Actions, CI/CD, ESLint, Code Climate, Chrome DevTools.
+- **🚀What I'm working with:** Axios, Async, Ajax, i18next, Lodash, Yup, on-change, Webpack, Bootstrap.
+- **📚What I'm learning:** TypeScript, React, React Hooks, Redux (React), Redux Toolkit (React).
+
+Telegram: @Victory_PS  
+Email: victory.pashkova@gmail.com  
+Education: [Hexlet Frontend programm](https://ru.hexlet.io/programs/frontend) student
+
 
 <!--
 **VictoryPashkova/VictoryPashkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
