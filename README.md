@@ -13,7 +13,7 @@ I'm passionate about programming frontend apps that address business needs and a
 
 Telegram: @Victory_PS  
 Email: victory.pashkova@gmail.com  
-Education: [Hexlet Frontend programm](https://ru.hexlet.io/programs/frontend)
+Education: [Hexlet Frontend program](https://ru.hexlet.io/programs/frontend)
 
 
 <!--
