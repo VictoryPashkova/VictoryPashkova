@@ -1,6 +1,6 @@
 # Hi there, my name is Victoria 👋
 
-### I'm a Junior Frontend Developer
+### I'm Frontend Developer
 
 I'm passionate about programming frontend apps that address business needs and anticipate user needs. Excited for new opportunities.
 
