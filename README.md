@@ -24,7 +24,7 @@ A simplified version of Slack chat with features including user login, registrat
 
 ## [Trello Board](https://github.com/VictoryPashkova/react_trello-board)
 A simplified task management board with user login, column and card title editing, card description editing, and comment creation, counting, modification, and deletion.  
-**Technologies:** TypeScript, Sass, React, Redux Toolkit, React Hook Form, Git-flow.  
+**Technologies:** TypeScript, Sass, React, Redux Toolkit, React Hook Form, Styled-Components, Git-flow.  
 **Build and Deployment:** Vite, Vercel.  
 **Additional Features:** Redux Persist for state management between page reloads.
 
