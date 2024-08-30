@@ -16,7 +16,7 @@ Education: [Hexlet Frontend program](https://ru.hexlet.io/programs/frontend)
 
 # My Projects Navigation
 
-## [Hexlet Chat]([https://github.com/your_username/hexlet-chat](https://github.com/VictoryPashkova/frontend-project-12))
+## [Hexlet Chat](https://github.com/VictoryPashkova/frontend-project-12)
 A simplified version of Slack chat with features including user login, registration, logout, channel creation, deletion, and editing, real-time message exchange via sockets, UI notifications, and profanity filtering.  
 **Technologies:** React, Socket.io, React-Bootstrap, JWT, React Query, React Router, Redux Toolkit, React Hooks, Formik, i18next, React-toastify, leo-profanity.
 [Chat Link](https://frontend-project-12-3cjf.onrender.com)
