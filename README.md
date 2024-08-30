@@ -42,7 +42,7 @@ A business card website with valid, semantic, responsive, and adaptive layout us
 **Additional Features:** Contact form with yup validation, slider with animation using plain JS.
 [Project Link](https://frontend-project-demo-web.vercel.app/) 
 
-## [Demo Website](https://github.com/VictoryPashkova/spotify-song-visualization)
+## [spotify-song-visualization](https://github.com/VictoryPashkova/spotify-song-visualization)
 An interactive map visualizing the similarity between Spotify tracks based on playlist data and release years.  
 **Technologies:** TypeScript, HTML, CSS, Axio, Cosine similarity, K-means clustering.
 **Build and Deployment:** Webpack, Vercel. 
