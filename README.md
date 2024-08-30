@@ -40,6 +40,7 @@ A service for aggregating an unlimited number of RSS feeds.
 
 ## [Demo Website](https://github.com/VictoryPashkova/frontend-project-demo-web)
 A business card website with valid, semantic, responsive, and adaptive layout using flexbox, BEM, Gsap animations. 
+
 **Technologies:** HTML, CSS, JavaScript, GSAP
 **Build and Deployment:** Webpack, Vercel.
 **Additional Features:** Contact form with yup validation, slider with animation using plain JS.
@@ -48,6 +49,7 @@ A business card website with valid, semantic, responsive, and adaptive layout us
 
 ## [Spotify song visualization map](https://github.com/VictoryPashkova/spotify-song-visualization)
 An interactive map visualizing the similarity between Spotify tracks based on playlist data and release years.
+
 **Technologies:** TypeScript, HTML, CSS, Axio, Cosine similarity, K-means clustering.
 **Build and Deployment:** Webpack, Vercel. 
 
